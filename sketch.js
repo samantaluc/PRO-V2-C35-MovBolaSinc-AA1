@@ -1,6 +1,5 @@
 var hypnoticBall, database;
 var position;
-
 function setup(){
   database = firebase.database();
   console.log(database);
